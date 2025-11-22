@@ -8,7 +8,7 @@
 
 # <span style="color: #00e1ff">👋 Hi, I'm Usman Habib</span>
 
-### 🚀 Full Stack Developer • ☁️ AWS Cloud Practitioner • 💻 Backend Engineer
+### 🚀 Full Stack Developer • ☁️ AWS Cloud Practitioner • 💻 Backend Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?color=%2300FFFF&size=24&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+(MERN+%2B+Next.js+%2B+Nest.js);Backend+API+%26+Authentication+Expert;AWS+Cloud+Engineer+(EC2%2C+S3%2C+RDS+%2C+ELB);Spring+Boot+Developer;Always+Learning+New+Technologies!" />
 
@@ -47,7 +47,7 @@
 
 ## 💼 Professional Experience
 
-### 🏢 Full Stack Developer — BAVE Holding LLC (Present)
+### 🏢 Full Stack Developer — BAVE Holding LLC (Sep - Nov 2025)
 
 - 🔗 Developed scalable backend services using **Nest.js**  
 - ⚡ Implemented **real-time features using WebSockets**  
