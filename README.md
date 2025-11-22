@@ -15,8 +15,8 @@
 <br />
 
 <div>
-  <img src="https://img.shields.io/badge/📞_0336-9188523-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📧usmanhabib802@gmail.com-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📞_0336--9188523-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📧_usmanhabib802@gmail.com-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/📍_Peshawar,_Pakistan-green?style=for-the-badge" />
 </div>
 
