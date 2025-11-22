@@ -1,7 +1,7 @@
 <!-- HERO SECTION -->
 <div align="center">
   
-<img src="https://raw.githubusercontent.com/easy2-code/easy2-code/easy2code/guangjing-zhang-4.jpg" width="100%" style="border-radius: 20px; margin-bottom: 20px;" />
+<img src="[https://raw.githubusercontent.com/easy2-code/easy2-code/easy2code/guangjing-zhang-4.jpg](https://media.licdn.com/dms/image/v2/D4D16AQE-8o__tPNraQ/profile-displaybackgroundimage-shrink_200_800/B4DZjRS582G8AU-/0/1755858051964?e=1765411200&v=beta&t=dHmxXHwD0dv1QeZ_TRSMJXwG10B8OfBVRyMHk4q_Y0Y)" width="100%" style="border-radius: 20px; margin-bottom: 20px;" />
 
 <br />
 
